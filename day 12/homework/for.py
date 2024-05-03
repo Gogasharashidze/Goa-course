@@ -19,10 +19,6 @@ for i in range(1, 10):
 print(sum)
 
 
-     
-
-
-
 #     N6
 a = int(input("enter number: "))
 b = int(input("enter number: "))
