@@ -1,1 +1,0 @@
-print("weather is sunny at the moment")
