@@ -1,6 +1,4 @@
-list =[ 1 , "goga" , "nina" , 3 , 6.82 ]
-
-list[2] = "giuli"
-print(list[2])
-print(list[1] + list[2])
-print(list[0] + list[4])
+print("goa is best")          
+list =(9 , "goa" , 9)
+list[1] ="nika"
+print(list)
